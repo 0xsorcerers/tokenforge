@@ -36,6 +36,17 @@
       "version": 5,
       "verified": true,
       "vendor": "venom"
+    },},
+     {
+      "name": "We Are Venom",
+      "chainId": 1,
+      "symbol": "WAVE",
+      "decimals": 9,
+      "address": "0:0918fe72e6a9a48b36a11b522f8823223d34c38395d9aa8422c71d0e81c4f9b5",
+      "logoURI": "https://wearevenom.org/assets/img/logo_rounded.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": "WeAreVenom"
     },
      {
       "name": "Cat Nitizen",
